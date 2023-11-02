@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
-
 import { MotiView, AnimatePresence, MotiText } from 'moti';
 
 export default function Movements({data}) {
